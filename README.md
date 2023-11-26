@@ -1,4 +1,6 @@
 # UN-Course-Design-DB-Optimization
+![Project ERD](Project_ERD.png)
+
 ## Project Introduction
 
 Welcome to the "UN-Course-Design-DB-Optimization" project repository! This initiative stems from the need to enhance the academic management system at the University of Northampton England by leveraging modern database practices. The project revolves around a carefully curated dataset containing information on newly developed computing courses.
@@ -24,3 +26,24 @@ This project aims to address these challenges by implementing an optimized datab
 - Problem Solving
 - Optimization Techniques
 - Data Engineering Best Practices
+
+## Database Implementation: 
+The designed models are implemented into a relational database and a graph database, fostering an optimized and efficient data structure.
+
+## Documentation: The project report is expected to include:
+
+In-depth dataset analysis and the intricacies of the design process.
+Presentation and justification of both relational and graphical models.
+Documentation of the database creation process.
+
+## Query Implementation: The report incorporates carefully crafted SQL and Cypher commands to address specific queries, including:
+
+- Display those modules running in both semesters.
+- Display all modules with at least a designated module.
+- Which course has the most prerequisites?
+- Display those modules that appear on a single course.
+- Does the Computer Science course have an unbalanced workload in either semester?
+
+
+
+
